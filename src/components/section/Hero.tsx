@@ -4,8 +4,9 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center bg-linear-to-r
-                 from-black via-gray-900 to-black text-white"
+      className="min-h-screen flex items-start md:items-center
+             pt-28 md:pt-0
+             bg-linear-to-r from-black via-gray-900 to-black text-white"
     >
       <div className="max-w-7xl mx-auto px-8 grid md:grid-cols-2 gap-10 items-center">
         {/* LEFT CONTENT */}
