@@ -63,7 +63,7 @@ export default function () {
             </p>
 
             <p className="text-gray-300">
-              Linkedin:{" "}
+              💼 Linkedin:{" "}
               <a href="https://www.linkedin.com/in/fajar-wahyu-nugraha-856552270/" className="text-blue-500 hover:underline">
                 Fajar Wahyu Nugraha
               </a>

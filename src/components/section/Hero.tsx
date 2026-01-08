@@ -1,4 +1,4 @@
-import profileImage from "../../assets/f.jpg";
+import profileImage from "../../assets/fajar.jpg";
 
 export default function Hero() {
   return (

@@ -1,18 +1,18 @@
 const experiences = [
   {
-    year: "2024",
-    role: "Junior Full Stack Developer",
-    company: "Personal & Academic Projects",
-    description: "Developed web applications using React, TypeScript, and Tailwind CSS. Built reusable UI components, implemented responsive layouts, and integrated basic backend services for academic and personal projects.",
+    year: "2025",
+    role: "Fullstack Web Developer",
+    company: "Purwadhika Bandung",
+    description: "Learned and explored modern web development practices using React, TypeScript, and Tailwind CSS through project-based learning.",
   },
   {
     year: "2023",
-    role: "Frontend Developer Intern",
+    role: "Frontend Developer",
     company: "Freelance / Campus Project",
     description: "Worked on modern frontend interfaces using React and CSS frameworks. Focused on UI consistency, component-based architecture, and improving user experience across devices.",
   },
   {
-    year: "2022",
+    year: "2021 - 2024",
     role: "Student – Informatics",
     company: "Universitas Teknologi Yogyakarta",
     description: "Studied core computer science concepts including web development, databases, and software engineering. Built several small to medium-scale applications as part of coursework.",
