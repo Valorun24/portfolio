@@ -1,9 +1,10 @@
 const experiences = [
   {
     year: "2025",
-    role: "Fullstack Web Developer",
-    company: "Purwadhika Bandung",
-    description: "Learned and explored modern web development practices using React, TypeScript, and Tailwind CSS through project-based learning.",
+    role: "Junior Fullstack Web Developer",
+    company: "Bandung",
+    description:
+      "Worked on various web development projects using React, TypeScript, Tailwind CSS, and Express.js. Built responsive user interfaces, reusable UI components, and implemented backend APIs to support fullstack web applications through hands-on, project-based learning.",
   },
   {
     year: "2023",
