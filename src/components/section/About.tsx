@@ -17,8 +17,8 @@ export default function About() {
           {/* Left */}
           <div>
             <p className="text-gray-300 leading-relaxed mb-6">
-              I am a <span className="text-white font-semibold">Junior Full Stack Developer</span> with a strong passion for building modern, scalable, and user-friendly web applications. I enjoy turning complex problems into simple,
-              elegant solutions.
+              I am a <span className="text-white font-semibold">Junior FullStack Developer</span> with a strong passion for building modern, scalable, and user-friendly web applications. I enjoy turning complex problems into simple, elegant
+              solutions.
             </p>
 
             <p className="text-gray-300 leading-relaxed mb-6">

@@ -20,7 +20,7 @@ export default function Hero() {
           </h2>
 
           <p className="text-gray-400 max-w-xl mb-10">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, culpa modi consectetur ut fuga eum ipsam dolor saepe tenetur deserunt incidunt voluptatum, placeat commodi quaerat atque omnis inventore, libero dolorum..
+            A Junior Full Stack Developer passionate about building modern and scalable web applications using React, TypeScript, and modern web technologies. I enjoy creating clean, responsive, and user-focused digital experiences.
           </p>
 
           <div className="flex gap-4">
