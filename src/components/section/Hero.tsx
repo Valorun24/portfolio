@@ -9,7 +9,7 @@ export default function Hero() {
              bg-linear-to-r from-black via-gray-900 to-black text-white"
     >
       <div className="max-w-7xl mx-auto px-8 grid md:grid-cols-2 gap-10 items-center">
-        {/* LEFT CONTENT */}
+        {/* LEFT CONTENT akakaka */}
         <div>
           <h1 className="text-5xl md:text-6xl font-bold mb-4">
             Hi, I'm <span className="text-blue-500">Fajar Wahyu Nugraha</span>
